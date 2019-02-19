@@ -1,0 +1,16 @@
+ipd:
+  name: Super iPad
+  price: 549.99
+  bulk_discount: -50.0
+mbp:
+  name: MacBook Pro
+  price: 1399.99
+  additional:
+    - vga
+atv:
+  name: Apple TV
+  price: 109.50
+  special: '3_for_2'
+vga:
+  name: VGA adapter
+  price: 30.00
